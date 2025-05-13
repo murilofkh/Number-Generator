@@ -14,4 +14,4 @@ python AppPTBR.py
   e também para a versão inglês
 
 ```bash
-python3
+python3 
