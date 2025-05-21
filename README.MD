@@ -4,7 +4,12 @@
 
 ## Comandos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hz6I6CKIZMs" frameborder="0" allowfullscreen></iframe>
+<div align="center" style="border: 2px solid #ccc; padding: 10px; display: inline-block;">
+  <a href="https://www.youtube.com/watch?v=SEU_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg" width="400" alt="Assista ao vídeo"/>
+  </a>
+</div>
+
 ```bash
 python3 AppPTBR.py
 ```
