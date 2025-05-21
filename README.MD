@@ -4,7 +4,7 @@
 
 ## Comandos
 
-https://youtu.be/Hz6I6CKIZMs
+[Assista ao vídeo demonstrativo](https://youtu.be/Hz6I6CKIZMs)
 ```bash
 python3 AppPTBR.py
 ```
