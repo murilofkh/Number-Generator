@@ -4,7 +4,7 @@
 
 ## Comandos
 
-![Demonstração do Projeto](./main/repositoriogit.mp4)
+![Demonstração do Projeto](./main/repositoriogit.gif)
 ```bash
 python3 AppPTBR.py
 ```
