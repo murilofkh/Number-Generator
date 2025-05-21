@@ -3,6 +3,8 @@
 - Os comandos estão no README da PTBRversion ou do Englishversion.
 
 ## Comandos
+
+https://youtu.be/Hz6I6CKIZMs
 ```bash
 python3 AppPTBR.py
 ```
