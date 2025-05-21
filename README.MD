@@ -4,12 +4,7 @@
 
 ## Comandos
 
-<div align="center" style="border: 2px solid #ccc; padding: 100px; display: inline-block;">
-  <a href="https://www.youtube.com/watch?v=SEU_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg" width="400" alt="Assista ao vídeo"/>
-  </a>
-</div>
-
+![Demonstração do Projeto](./assets/seu_gif.gif)
 ```bash
 python3 AppPTBR.py
 ```
